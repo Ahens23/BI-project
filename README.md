@@ -47,7 +47,7 @@ This dashboard gives a clear overview of data analysts as per the business requi
 
 **Data Sources**: [hotel_booking_raw.csv](https://github.com/Ahens23/BI-project/blob/main/hotel_bookings_raw.csv)
 
-**Data Transformation**: Used Power Query to check the errors, changed the incorrect data types, filled the empty datas as 0, changed the customer sentiment column's numerical data to alphabetical data type using new conditional column.
+**Data Transformation**: Used Power Query to check the errors, changed the incorrect data types, filled the empty records as 0, changed the customer sentiment column's numerical records to alphabetical records using new conditional column.
 
 **Design**: Dark-themed interactive layout emphasizing readability and contrast
 
