@@ -39,7 +39,7 @@ This dashboard gives a clear overview of data analysts as per the business requi
 
 #  📈Power BI dasboard:
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/59acd447-38f0-456f-95d4-0870e8b99f8a" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9a9694bf-f8c0-4699-b247-4dc39a351bcc" />
 
 # 🔍Key features of Dasboard:
 
