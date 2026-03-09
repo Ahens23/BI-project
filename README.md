@@ -5,7 +5,7 @@ This project provides a comprehensive overview for the business requirement of t
 # ❓KPI requirements:
 
 * Total booking placed in Resort hotel and City hotel
-* Average room occupancy rate per day, week and month (Helps measure how effectively rooms are being utilized).
+* Average revenue earned of the Hotels
 
 ## 💡Business requirements for the booking demand in both hotels:
 
@@ -15,7 +15,7 @@ This dashboard gives a clear overview of data analysts as per the business requi
 
 * Need insight on booking reliability and revenue risk.
 
-* What is the Average revenue earned of the Hotels?
+* Average room occupancy rate per day, week and month (Helps measure how effectively rooms are being utilized).
 
 * What is the percentage of bookings come from each channel? 
 
