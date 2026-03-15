@@ -47,12 +47,12 @@ This dashboard gives a clear overview of data analysts as per the business requi
 
 **Data Sources**: [hotel_booking_raw.csv](https://github.com/Ahens23/BI-project/blob/main/hotel_bookings_raw.csv)
 
-**Data Transformation**: Used Power Query to check the errors, changed the incorrect data types using excel, filled the empty records as 0, changed the customer sentiment column's numerical records to alphabetical records using new conditional column.
+**Data Transformation**: Used Power Query to check the errors, changed the incorrect data types using excel, filled the empty records as 0, changed the customer sentiment column's numerical records to alphabetical records using new conditional column (Used ABC analysis).
 
 **Design**: Dark-themed interactive layout emphasizing readability and contrast.
 
 #  🔗Conclusion:
 
-Completing this project deepened my expertise in [Complex DAX logic/Power Query ETL]. The most significant challenge was [showcasing the customer sentiment chart], which was resolved by [transforming the customer sentiment records into new conditional column]. 
+Completing this project deepened my expertise in [Complex DAX logic/Power Query ETL]. The most significant challenge was [showcasing the customer sentiment chart], which was resolved by [transforming the customer sentiment records into new conditional column] (Used ABC analysis). 
 
 This project stands as a testament to my ability to translate complex business requirements into intuitive, actionable data products.🧠
